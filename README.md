@@ -1,2 +1,3 @@
 # twit-bot
-this is a twitter bot that can send response to people when followed
+requires node.js follow instructions on the twit site on npm
+I wanted a place to save my work
