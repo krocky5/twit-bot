@@ -1,0 +1,19 @@
+{
+  "name": "twitbot",
+  "version": "1.0.0",
+  "description": "starting over",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fresh",
+    "start",
+    "good"
+  ],
+  "author": "Kevin A Roccanova",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
